@@ -1,0 +1,107 @@
+
+div{
+    width: 15%;
+}
+
+
+#divone{
+ border: 3px solid red   
+}
+
+#divtwo{
+    border: 3px dotted red   
+   }
+
+#divthree{
+    border: 3px dashed red   
+   }
+
+   #divfour{
+    border: 3px double red   
+   }
+
+   #divfive{
+    border: 3px groove red   
+   }
+
+   #divsix{
+    border: 3px ridge red   
+   }
+
+   #divseven{
+    border: 3px inset red   
+   }
+
+   #diveight{
+    border: 3px outset red   
+   }
+
+   #task2a{
+    background-color: green ;
+    opacity: 0.1;
+    
+   }
+
+   #task2b{
+    background-color: green ;
+    opacity: 0.3;
+    
+   }
+
+   #task2c{
+    background-color: green ;
+    opacity: 0.6;
+    
+   }
+
+   #task2d{
+    background-color: green ;
+    opacity: 1;
+    
+   }
+
+   #task2e{
+    background-color: rgba(0,128,0, 0.1 ) 
+   }
+
+   #task2f{
+    background-color: rgba(0,128,0, 0.3 ) 
+   }
+   
+   #task2g{
+    background-color: rgba(0,128,0, 0.6 ) 
+   }
+   
+   #task2h{
+    background-color: rgba(0,128,0, 1 ) 
+   }
+   
+
+   #task3{
+    width: 50%;
+    border: 2px solid red;
+    text-align: center;
+    margin: 0 auto;
+    line-height: 25px;
+    letter-spacing: 1.5px;
+    word-spacing: 2px;
+    padding: 30px;
+    justify-content: center;
+   }
+
+   Div > h1{
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 3px red , 0 0 3px black ;
+   }
+   
+
+  #task4a{
+    border: 3px solid blue;
+  }
+
+  #task4b{
+    border: 3px solid ;
+    border-color: gray black pink blue;
+  }
